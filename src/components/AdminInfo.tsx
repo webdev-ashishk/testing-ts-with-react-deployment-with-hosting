@@ -1,5 +1,3 @@
-import { _AdminInfo } from '../types';
-
 const AdminInfo = ({ id, name, email, isAdmin }: _AdminInfo) => {
   return (
     <section>

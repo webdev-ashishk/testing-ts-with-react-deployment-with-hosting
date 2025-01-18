@@ -1,5 +1,3 @@
-import { _StudentInfo } from '../types';
-
 const StudentInfo = ({ id, name, email }: _StudentInfo) => {
   return (
     <div>
